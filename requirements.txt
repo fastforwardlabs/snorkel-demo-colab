@@ -2,7 +2,7 @@ beautifulsoup4==4.7.1
 future==0.17.1
 ipywidgets==7.4.2
 jupyter==1.0.0
-lxml==4.3.3
+lxml==4.9.1
 matplotlib==3.0.1
 nltk==3.2.5
 numba==0.43.1
